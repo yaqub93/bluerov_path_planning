@@ -35,6 +35,7 @@ sudo apt-get install ros-noetic-octomap-msgs
 ```bash
 cd course_ws
 catkin_make
+source devel/setup.bash
 ```
 
 ## Running:
